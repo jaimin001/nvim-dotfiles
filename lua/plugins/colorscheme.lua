@@ -1,7 +1,7 @@
 return {
     -- add gruvbox
     {
-        "ellison/gruvbox.nvim",
+        "morhetz/gruvbox",
         opt = {
             transparent = true,
             styles = {
